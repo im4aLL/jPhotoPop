@@ -5,7 +5,7 @@ A lightweight jQuery Photo Pop-up plugin with zoom in/out and drag only 6KB.
 
 <ul>
 	<li>jPhotoPop.min.js - this have zoom in and out and drag feature</li>
-	<li></li>
+	<li>jPhotoPop.lite.min.js - very basic</li>
 </ul>
 
 <em>Note: this plug is in development and there is no stable release for this plugin. If you want to use then take the minified version.</em>
